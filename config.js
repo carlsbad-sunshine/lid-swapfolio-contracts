@@ -19,8 +19,7 @@ config.redeemer = {
     ether("300"),
     ether("620"),
     ether("1260"),
-    ether("2540"),
-    ether("3322")
+    ether("2540")
   ],
   bonusRangeBP: [
     5000,
@@ -47,8 +46,10 @@ config.presale = {
   uniswapTokenBP: 2500,
   presaleTokenBP: 3800,
   tokenDistributionBP: {
-    project: 3000,
     team: 700,
+    dev: 1300,
+    staking: 1300,
+    marketing: 1300,
   },
 };
 

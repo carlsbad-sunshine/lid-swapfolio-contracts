@@ -41,7 +41,7 @@ config.presale = {
   lidEthBP: 500,
   referralBP: 250,
   hardcap: ether("3322"),
-  token: "0x7fe380fed13742f14b5649ec73f79c2e404f62b7",
+  token: "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
   uniswapRouter: "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
   lidFund: "0xb63c4F8eCBd1ab926Ed9Cb90c936dffC0eb02cE2",
   uniswapTokenBP: 2500,
